@@ -22,4 +22,5 @@ Please refer Oracle Documentation: [Oracle NXSD](https://docs.oracle.com/cd/E239
 ## Data Mapping
 
 There are basically three cases a mapper appear in the flow.
-1.
+
+[OIC Mapper](/images/Mapper.jpg)
