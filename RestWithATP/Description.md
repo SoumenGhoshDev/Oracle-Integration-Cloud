@@ -24,3 +24,9 @@ Please refer Oracle Documentation: [Oracle NXSD](https://docs.oracle.com/cd/E239
 There are basically three cases a mapper appear in the flow.
 
 <img src="./images/Mapper1.png" alt="OIC Mapper" >
+
+## How to conditionally map a target Node? Like if an expression return true then only the mapping should happen or else no mapping.
+
+If XSL Construct
+
+<img src="./images/Cond_mapping.png" alt="Conditional Mapping" >
