@@ -23,6 +23,4 @@ Please refer Oracle Documentation: [Oracle NXSD](https://docs.oracle.com/cd/E239
 
 There are basically three cases a mapper appear in the flow.
 
-[OIC Mapper](./images/Mapper.png)
-
-<img src="./images/Mapper.png" alt="OIC Mapper" width="300" height="200">
+<img src="./images/Mapper.png" alt="OIC Mapper" >
