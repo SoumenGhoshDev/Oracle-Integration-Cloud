@@ -17,3 +17,9 @@ This Integration is designed with a REST Adapter in Trigger mode with Single Par
 ## How to create NXSD File to read structured data into XML Format?
 
 Please refer Oracle Documentation: [Oracle NXSD](https://docs.oracle.com/cd/E23943_01/integration.1111/e10231/nfb.htm#CCHCIGCA)
+
+
+## Data Mapping
+
+There are basically three cases a mapper appear in the flow.
+1.
