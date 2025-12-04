@@ -12,7 +12,7 @@ This Integration is designed with a REST Adapter in Trigger mode with Single Par
 | Mutability    | Can be read and updated within the integration flow during execution                                           | Can be read and updated throughout the integration flow                                            | Read-only within the integration flow, but their values can be overridden from the OIC Console at runtime without editing the integration  |
 | Data Types    | Primarily simple types (string, date, number, boolean) and limited to 256 characters (for tracking batch data) | Can be simple types or complex types (e.g., object types from an integration's trigger or invokes) | Primarily simple string key-value pairs for configuration data                                                                             |
 | Configuration | Defined within the schedule configuration panel of a scheduled integration                                     | Defined using the "Assign" action or variables panel within the integration canvas                 | Defined in the integration's properties and managed in the OIC Console's properties management section                                     |
-
+<img src="./images/IntVar.png" alt="Integration Variable" >
 
 ## How to create NXSD File to read structured data into XML Format?
 
